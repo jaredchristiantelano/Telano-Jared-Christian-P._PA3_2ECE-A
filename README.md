@@ -4,7 +4,7 @@ This assignment uses pandas to perform the following problems.
 
 Problem 1 
 
-In this problem, a .csv file was turned into a data frame using pandas. The first 5 rows and the last 5 rows of the dataframe were then appended together in a single dataframe. 
+In this problem, pandas library was imported first. Then, a .csv file was uploaded and turned into a data frame using pandas, stored under the variable 'cars'. The first 5 rows and the last 5 rows were obtained using the functions .head() and .tail(), respectively. These selected rows from the original dataframe were then appended together in a single dataframe. 
 
 Code
 ```
