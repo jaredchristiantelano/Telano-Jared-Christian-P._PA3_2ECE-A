@@ -19,7 +19,7 @@ cars_5                                           # Displays the dataframe
 
 Problem 2 
 
-In this problem, the previous dataframe was also utilized in this problem. First, the first five rows with odd-numbered columns were located and displayed. Then, the problem called for the row that contains the 'Model' of 'Mazda RX4'. After that, the number of cylinders of the car model 'Camaro Z28' was determined. Lastly, the number of cylinders and the gear type of selected car models were determined. All of this information were extracted using subsetting, splicing, and indexing operations through pandas. 
+In this problem, the previous dataframe was also utilized in this problem. First, the first five rows with odd-numbered columns were located and displayed. Then, the problem called for the row that contains the 'Model' of 'Mazda RX4'. After that, the number of cylinders of the car model 'Camaro Z28' was determined using .loc[], .item() was used to return the number of cylinders. Lastly, the number of cylinders and the gear type of selected car models were determined. All of this information were extracted using subsetting, splicing, and indexing operations through pandas. 
 
 Code 
 ```
